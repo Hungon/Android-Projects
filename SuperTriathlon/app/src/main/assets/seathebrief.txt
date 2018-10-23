@@ -1,0 +1,19 @@
+Your character will move\n
+as you use the below controller.\e
+However, you can't move,\n
+if you touch the screen before you touch the controller.\e
+In addition, your character can attack\n
+as you touch the attack button.\e
+Moreover, your character can do special attack\n
+using the attack gauge as you touch the button.\e
+You can increase the attack gauge\n
+as beat back the enemy or\n
+you are attacked by the enemy.\e
+When you defeat the enemy,\n
+to appear an item within these items.\n
+There is the item\n
+that showing the effect immediately or not.\e
+When you get the item, you can use that item as\n
+touch the button.\e
+You can get the bonus as moving through the light.\e
+\m\yAre you ready?\e

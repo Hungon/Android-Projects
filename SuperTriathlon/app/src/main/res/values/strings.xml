@@ -1,0 +1,81 @@
+<resources>
+
+  <!-- CUSTOMIZE THESE FOR YOUR APP -->
+  <string name="main_nav_menu_item_home">Home</string>
+  <string name="app_name">Super Triathlon</string>
+  <string name="title_activity_item_detail">詳細</string>
+  <string name="title_activity_item_list">項目</string>
+  <string name="title_activity_main">@string/app_name</string>
+
+
+  <!-- USED BY DEMO FEATURES ONLY - YOU CAN DISCARD THESE WITH THE DEMO FOLDER -->
+  <!-- SelectTable fragment -->
+  <string name="fragment_demo_instruction_overview_header">概要</string>
+  <string name="fragment_demo_instruction_description_header">Ranking 機能</string>
+
+  <string name="feature_ranking_title">Super Ranking</string>
+  <string name="feature_ranking_subtitle">最高記録をランキングへ登録します。</string>
+  <string name="feature_ranking_overview">最高記録をランキングへ登録します。</string>
+  <string name="feature_ranking_description">このシーンでは、データをランキングに挿入することで、他のプレイヤーと競い合うことが出来ます。\nまた、データの再取得をする上でネットワークを介するため、インターネットへ繫ぐ必要があります。</string>
+  <string name="feature_ranking_powered_by">Powered by Amazon DynamoDB</string>
+
+  <string name="main_fragment_title_ranking_database">Super Ranking</string>
+  <string name="feature_show_ranking_button">ランキングを見る</string>
+
+  <string name="main_fragment_title_nosql_select_operation">Ranking: %s</string>
+  <string name="main_fragment_title_nosql_select_table">Ranking: ステージ選択</string>
+
+  <string name="nosql_dialog_title_failed_dynamodb_describe_table_text">データの再取得に失敗しました。 \'%s\'.</string>
+  <string name="nosql_dialog_title_failed_operation_text">エラー</string>
+  <string name="nosql_dialog_title_failed_loading_more_results">スコアの取得に失敗しました。</string>
+  <string name="nosql_dialog_title_failed_update_item_text">スコアの更新に失敗しました。</string>
+  <string name="nosql_dialog_title_failed_delete_item_text">データの削除に失敗しました。</string>
+
+  <string name="nosql_database_table_item_creation_date_text">%sを作成しました。</string>
+  <string name="nosql_remove_sample_data_button_text">データの削除</string>
+
+  <string name="nosql_dialog_title_remove_confirmation">データを削除しますか？</string>
+  <string name="nosql_dialog_message_remove_confirmation">ランキング内の全てのデータが削除されます。　よろしいですか？</string>
+  <string name="nosql_dialog_title_no_exist_data_text">データがありません</string>
+  <string name="nosql_dialog_message_records_have_already_removed">ランキングにデータがありません。</string>
+
+  <string name="nosql_dialog_title_register_id_text">IDの登録</string>
+  <string name="nosql_dialog_message_register_id_text">ID作成に成功しました。</string>
+  <string name="nosql_dialog_message_confirmation_of_creating_data">ランキング内にデータを作成しますか？</string>
+  <string name="nosql_dialog_title_added_sample_data_text">データを追加しました</string>
+  <string name="nosql_dialog_message_added_sample_data_text">ランキングへのデータ追加に成功しました。</string>
+  <string name="nosql_dialog_title_updated_data_text">データを更新しました</string>
+  <string name="nosql_dialog_message_updated_data_text">データの更新に成功しました！</string>
+  <string name="nosql_dialog_message_failed_updating_data_text">データの更新に失敗しました。</string>
+  <string name="nosql_dialog_title_removed_data_text">データを削除しました</string>
+  <string name="nosql_dialog_message_removed_sample_data_text">ランキングのデータを削除しました。</string>
+  <string name="nosql_dialog_ok_text">OK</string>
+
+  <!-- NoSQL Demo Operations Headers -->
+  <string name="nosql_operation_header_scan">検索</string>
+  <!-- NoSQL Demo Query Operations -->
+  <string name="nosql_operation_title_scan_with_filter">フィルタリング</string>
+  <string name="nosql_operation_title_scan_without_filter">検索</string>
+
+  <string name="nosql_dialog_title_pending_results_text">少々お待ちください…&#8230;</string>
+  <string name="nosql_dialog_message_pending_results_text">データを取得中です…</string>
+
+  <string name="nosql_dialog_title_no_results_text">合致するデータが見つかりませんでした。</string>
+  <string name="nosql_dialog_message_no_results_text">情報と合致しませんでした。 登録を確認した後、再度試してください。</string>
+
+  <!-- InputName fragment -->
+  <string name="feature_register_title">登録</string>
+  <string name="feature_register_subtitle">名前の入力</string>
+  <string name="feature_register_overview">好きな名前を入力できます。</string>
+  <string name="feature_register_description">登録された名前はランキング内で公開されます。\nまた、名前を登録すると最高記録が自動的にランキングへ更新されます。</string>
+  <string name="feature_participate_button">参加する</string>
+  <string name="edit_text_hint">名前を入力</string>
+  <string name="main_fragment_title_register">登録</string>
+  <string name="feature_register_dialog_you_registered">ランキングへデータを登録済みです。</string>
+
+  <string name="enter_button">1. はい</string>
+  <string name="cancel_button">2. いいえ</string>
+
+  <string name="banner_ad_unit_id">ca-app-pub-6783092971929528~8233562498</string>
+
+</resources>

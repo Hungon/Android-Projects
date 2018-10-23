@@ -1,0 +1,12 @@
+Your character will move to the position\n
+that touch the screen.\e
+As avoid the obstacles from forward,\n
+you will keep moving forward.\e
+When your character touches the jump point,\n
+will do a jump action.\e
+Then the circle will appear here as a command.\e
+If you touch the circle\n
+which is scaled down little by little\n
+as around size of the opaque circle,\n
+your input is correct.\e
+\m\yAre you ready?\e

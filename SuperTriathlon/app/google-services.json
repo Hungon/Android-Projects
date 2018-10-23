@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "765918015483",
+    "firebase_url": "https://super-triathlon.firebaseio.com",
+    "project_id": "super-triathlon",
+    "storage_bucket": "super-triathlon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765918015483:android:938483c6b75b14cf",
+        "android_client_info": {
+          "package_name": "com.trials.supertriathlon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765918015483-vbicn9updhduuie1j8r6utgdh71lb1sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFPivBwM5xFg9qGlIoJZOpLj8UezpQ2-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

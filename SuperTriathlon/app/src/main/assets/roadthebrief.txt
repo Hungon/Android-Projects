@@ -1,0 +1,20 @@
+Your character will move to the position\n
+that touch the screen.\e
+If you touch the player character, \n
+player character will do jump action\n
+to avoid the obstacle.\e
+Moreover, you can attack the competitor\n
+when touch the competitor.\e
+Of course, competitor also can attack you\n
+so to be careful.\e
+There is a common obstacle.\n
+You can avoid the obstacle by jump or move.\e
+There are special hurdles.\n
+Except for black, if runner jumps the hurdle,\n
+get the advantageous effect.\e
+When a runner gets the effect,\n
+to appear these images\n
+which mean while showing the effect.\e
+When player character's stamina run out,\n
+to transition to game-over.\e
+\m\yAre you ready?\e
