@@ -1,0 +1,3 @@
+OK, you selected the Select music.\w\n
+In this selection, you can choose\n
+and listen to music to play the game.\d

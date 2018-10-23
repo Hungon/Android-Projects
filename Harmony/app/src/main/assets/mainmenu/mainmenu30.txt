@@ -1,0 +1,4 @@
+Ok, you selected Association game.\n
+In this style, there are Emotions style,\n
+Fruits style and All styles mode to\n
+play the game.\d

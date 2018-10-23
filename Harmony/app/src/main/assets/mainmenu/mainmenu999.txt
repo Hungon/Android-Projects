@@ -1,0 +1,4 @@
+You are in the main menu scene.\w\n
+In this view, you can make sure\n
+each setting, listen to music\n
+and refer to each association word.\d

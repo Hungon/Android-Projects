@@ -1,0 +1,21 @@
+This world is filling with colours.\e
+Those colours are red, blue, green,\n
+yellow, white, black and so on.\e
+When I said either colour, you reply\n
+to the recognizer the association words\n
+of that colour in the selection\n 
+that you selected in the main menu scene.\e
+For example, when I said red,\n
+you answer the association words\n
+of red in the selection.\e
+If you can say a correct answer,\n
+you get 100 points.\e
+Eventually, when the current playback\n
+position reached to the end,\e
+the current scene transitions to\n
+the result scene.\e
+If you want to check out each\n
+association word in the selection,\n
+there is the library in the task table.\e
+When you got it, it's time to play\n
+as pressed the button to start.\d

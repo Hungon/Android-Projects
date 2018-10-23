@@ -1,0 +1,7 @@
+You are in the tutorial scene.\w\n
+In this view, you can experience\n
+the summary of the whole game.\e
+However, you have already experienced.\n
+Do you want to check the tutorial again?\p
+Sure.\n
+I shall explain again.\d

@@ -1,0 +1,11 @@
+This world is filling with colours.\w\n
+Those colours are red, blue, green,\n
+yellow, white, black, and so on.\e
+When I said either word of colours,\n
+you follow me.\p
+If you can say a correct answer,\n
+you get 100 points.\e
+Eventually, when the current playback\n
+position reached to the end,\w\n
+the current scene transitions to\n
+the result scene.\d

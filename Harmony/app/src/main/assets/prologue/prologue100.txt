@@ -1,0 +1,13 @@
+This world is filling with sounds of colours.\e
+Listen to each sound and\n
+remember those sounds.\p
+When you hear either sound of those,\w\n
+you should remember the sound\w\n
+since the recognizer asks you about\n
+what colours are.\e
+If you can say a correct answer,\n
+you get 100 points.\p
+Eventually, when the current playback\n
+position reached to the end,\w\n
+the current scene transitions to\n
+the result scene.\d

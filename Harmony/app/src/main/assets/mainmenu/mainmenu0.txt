@@ -1,0 +1,8 @@
+You are in the main menu scene.\w\n
+In this view, you can choose either mode,\n
+either level and music to play the game.\e
+If you have played the game more than once,\w\n
+you can check the each best record that\n
+scored in the past.\e
+If you make sure each thing,\n
+it's time to play the game.\d

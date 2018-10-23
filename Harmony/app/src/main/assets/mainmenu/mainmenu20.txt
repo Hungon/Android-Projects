@@ -1,0 +1,4 @@
+Ok, you selected Select level.\w\n
+In this selection, you can change the level\n
+to play the game.\e
+These are easy, normal and hard.\d

@@ -1,0 +1,5 @@
+OK, you selected the Select mode.\w\n
+In this selection, you can choose\n
+either mode to play the game.\e
+These are Sound mode, Sentence mode and\n
+Association mode.\d

@@ -1,0 +1,18 @@
+It's too bad that the recognizer could not\n
+recognize your sentence.\e
+However, if you would like to call recognizer,\w\n
+firstly you open the task table.\e
+There is that button at the center of the\n
+screen bottom.\e
+Then, you can call the recognizer\w\n
+when the recognizer's image is on top\n
+as pressed twice quickly.\e
+When the recognizer asks you about something,\w\n
+you tell an answer to obtain a process.\e
+Moreover, when you open the task table,\n
+and if an indicating image is on top,\w\n
+you can operate a process as pressed \n
+the task table twice quickly.\e
+In this view, you can change current scene.\w\n
+There are main menu button, tutorial button\n
+and credit-view button in the task table.\d

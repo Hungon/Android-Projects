@@ -1,0 +1,10 @@
+You are in the tutorial scene.\w\n
+In this view, you can experience\n
+the summary of the whole game.\e
+Firstly, there are sound mode and\n
+sentence mode to play the game.\e
+In sound mode, you remember sounds\n
+to play the game.\e
+In sentence mode, you remember\n
+specified words to play the game.\e
+Which style do you want to play?\d

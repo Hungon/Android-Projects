@@ -1,0 +1,7 @@
+Welcome to the harmony world.\w\n
+You are in the opening scene.\n
+This android game is using\n
+voice recognition function.\e
+Firstly, I shall call the recognition function,\w\n
+and then you should try to say Tutorial\n
+to the recognition function.\d

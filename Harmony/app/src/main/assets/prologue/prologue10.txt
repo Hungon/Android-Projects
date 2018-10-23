@@ -1,0 +1,12 @@
+You are in the prologue scene.\n
+This world is filling with colours.\e
+Those colours are red, blue, green,\n
+yellow, white, black and so on.\e
+When I said either word of colours,\n
+you follow me.\p
+If you can say a correct answer,\n
+you get 100 points.\e
+Eventually, when the current playback\n
+position reached to the end,\e
+the current scene transitions to\n
+the result scene.\d
