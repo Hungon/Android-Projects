@@ -4,13 +4,13 @@ I've made Android apps for fun and learning.
 
 1. Harmony
 
-Language: Java
+    Language: Java
 
-Category: Music game
+    Category: Music game
 
 
 2. Super Triathlon
 
-Language: Java
+    Language: Java
 
-Category: Action game
+    Category: Action game
