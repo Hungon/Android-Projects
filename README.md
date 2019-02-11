@@ -1,6 +1,9 @@
 # Android-Projects
+These android proojects had been made when I was an newbie to android.
+
 
 <h1>1. Super Triathlon</h1>
+<li>Last Update Date: 2017/01</li>
 <li>Category: Action</li>
 <li>Target: teenager, man</li>
 <li>Language: Java</li>
@@ -40,6 +43,7 @@ To Sum Up:<br>
 
 
 <h1>Harmony</h1>
+<li>Last Update Date: 2017/01</li>
 <li>Category: Music</li>
 <li>Target: teenager, blind people</li>
 <p>Summary:<br>
