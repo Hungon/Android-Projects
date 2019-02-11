@@ -46,6 +46,8 @@ To Sum Up:<br>
 <li>Last Update Date: 2017/01</li>
 <li>Category: Music</li>
 <li>Target: teenager, blind people</li>
+<li>Language: Java</li>
+<li>Tools:  Android Studio and Photoshop elements 14</li>
 <p>Summary:<br>
  I had created Harmony in leveraging APIs which are Voice Recognition and Text-To-Speech that  
  provided by Google.
