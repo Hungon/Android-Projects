@@ -17,7 +17,7 @@ I'm sorry, part of features that utilize AWS may not work since I disabled my ac
  I have learnt Activity cycle on Android with different orientation."
 </p>
 
-<p>Functions:
+<p>Functions:<br>
  1. Ranking<br>
  When the registered plater gets into the ranking view, the best each record are automatically      
  updated, and then player can check own records on the ranking or delete own records.
@@ -47,7 +47,7 @@ Sum Up:<br>
 <li>Category: Music</li>
 <li>Target: teenager, blind people</li>
 <li>Language: Java</li>
-<li>Tools:  Android Studio and Photoshop elements 14</li>
+<li>Tools: Android Studio, Photoshop elements 14 and WavePad Sound Editor</li>
 <p>Summary:<br>
  I had created Harmony in leveraging API which are Voice Recognition and Text-To-Speech that  
  provided by Google.
@@ -55,8 +55,6 @@ Sum Up:<br>
  The Music game allows user to play the game by player's voice along with a rule of style player   
  selected.
 </p>
-<li>Language: Java</li>
-<li>Tools: Android Studio, Photoshop elements 14 and WavePad Sound Editor</li>
 <p>Features and Design:<br>
  1. Buttons Table<br>
   The design is for the blind or visually impaired.
